@@ -1,0 +1,49 @@
+#header{
+
+    background-color: rgb(82, 52, 34);
+    padding: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+
+#copy{
+    text-align: center;
+}
+
+.main{
+    background-color: rgb(112, 152, 187);
+    padding: 16px;
+}
+
+.nav{
+    text-align: center;
+  margin-top: 20px;
+}
+.nav1{
+    text-align: center;
+    margin-inline-start: 20px;
+}
+.nav2{
+    text-align: center;
+    margin-inline-start: 20px;
+}
+.nav3{
+    text-align: center;
+    margin-inline-start: 20px;
+}
+.nav4{
+    text-align: center;
+    margin-inline-start: 20px;
+}
+s1{
+    padding: 70px;
+    text-align: center;
+    color: green;
+}
+
+
+
+
